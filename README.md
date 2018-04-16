@@ -38,11 +38,11 @@ For this one you simply go to the contact page then type in a name and email lik
 
 Vulnerability #1: REFER TO Week8Red1 (For Image)IDOR
 
-
+For this one I simply logged in found a user account. Logged out went to the public site and changed the extention to the value of the former profile and the information showed up. That's it...
 
 Vulnerability #2: REFER TO Week8Red2 (For Image)CSRF
 
-
+This one was complex. The strings that were accepted was complex. So for starters I made an HTML document that would get executed when the admin opened it displaying nothing and the person(Barbara at ID=9) had her information hacked. This will do the same for the other users executing said code. But That's about it
 
 ## Notes
 
