@@ -18,7 +18,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: REFER TO Week8Blue1 (For Image) Session Hijacking
 
-For The first one you log in like normal and go to https://35.184.241.155/blue/public/hacktools/change_session_id.php for the extention and copy the PHPSESSIONID. From there open a new browser and try going to the login returning to the Hack tools and paste the value of the copied PHPSESSIONID into the new one and change. Then go to the login and you'll be logged in without having to type in user and password
+For The first one you log in like normal and go to https://35.184.241.155/blue/public/hacktools/change_session_id.php (You IP will differ from this one)for the extention and copy the PHPSESSIONID. From there open a new browser and try going to the login returning to the Hack tools and paste the value of the copied PHPSESSIONID into the new one and change. Then go to the login and you'll be logged in without having to type in user and password
 
 Vulnerability #2: REFER TO Week8Blue2 (For Image) SQL Injection
 
